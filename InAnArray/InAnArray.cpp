@@ -1,3 +1,11 @@
+/*Language: cpp
+ID: 9fbe4c12
+QLink: https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/in-an-array-9fbe4c12/
+Author: Amirkhaksar 
+*/
+
+
+
 #include <iostream>
 using namespace std;
 
