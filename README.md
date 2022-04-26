@@ -1,6 +1,6 @@
 # Hackerearth
 - Arrays Questions
-| Name of Question       | Link                                | Soloution Dirctory                                                                                                         |
+| Name of Question       | Link of Question                             | Soloution Dirctory                                                                                                         |
   | ---------------------- | ----------------------------------- |-------------------------------------------------------------------------------------------------------------------------- |
   | Non-decreasing arrays               | [Non-decreasingArrays](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/make-it-non-decreasing-7d3391fd/)  | [Non-decreasingArrays](https://github.com/Amirkhaksar/Hackerearth/tree/main/Non-decreasingArrays)                                    |
 	| James and the menus               | [jamesandmenus](https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/howie-and-the-menus-2-48359fe4/)  | [jamesandmenus](https://github.com/Amirkhaksar/Hackerearth/tree/main/jamesandmenus)                                    |
