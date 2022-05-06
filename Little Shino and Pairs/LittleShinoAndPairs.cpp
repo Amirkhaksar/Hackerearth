@@ -12,8 +12,8 @@ int main() {
     int arr[n];
 
     stack <int> 
-		s,
-		s1;
+			s,
+			s1;
 
     for(int i = 0; i < n; i++)
     {
@@ -23,23 +23,23 @@ int main() {
     for(int i = 0; i < n; i++)
     {
     	while(!s.empty() && arr[i] > arr[s.top()])
-		{
-			s.pop();
-			count = count + 1;
-		}
+			{
+				s.pop();
+				count = count + 1;
+			}
  
-		s.push(i);
-	}
+			s.push(i);
+		}
 
     for(int i = n - 1; i >= 0; i--)
     {
     	while(!s1.empty() && arr[i] > arr[s1.top()])
-		{
-     		s1.pop();
-     		count = count + 1;
-     	}
+			{
+					s1.pop();
+					count = count + 1;
+			}
      
-		s1.push(i);
+			s1.push(i);
     }
 
     cout << count << endl;
