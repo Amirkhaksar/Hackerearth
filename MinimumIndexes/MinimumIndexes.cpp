@@ -1,5 +1,5 @@
 /*
-#Language:python
+#Language:C++
 #ID:Minimum Indexes
 #QLink:https://www.hackerearth.com/problem/algorithm/yassers-conditions-6cc26a09/
 #All Accepet
