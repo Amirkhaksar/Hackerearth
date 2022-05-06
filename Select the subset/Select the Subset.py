@@ -38,4 +38,3 @@ for t_ in range (t):
     sub = [0] * (n + 1)
     sb = [p [1] for p in sorted (zip (A, B))]
     print (soloution(sb, n))
-# git push -u origin main
