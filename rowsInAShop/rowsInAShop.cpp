@@ -1,3 +1,8 @@
+//Language: cpp
+//ID: 158
+//QLink: https://www.hackerearth.com/problem/algorithm/roses-for-valentine-4a795f72/
+//Author: @mahdimma (MohammadMahdi Abbasi)
+
 #include <iostream>
 #include <vector>
 using namespace std;
