@@ -1,3 +1,8 @@
+//Language: cpp
+//ID: 163
+//QLink: https://www.hackerearth.com/problem/algorithm/sequential-tuples-ea494c73/
+//Author: @mahdimma (MohammadMahdi Abbasi)
+
 #include <iostream>
 
 int main()
