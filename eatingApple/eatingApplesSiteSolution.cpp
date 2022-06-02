@@ -1,6 +1,3 @@
-// In the name of Allah.
-// We're nothing and you're everything.
-// Ya Ali!
 //Language:cpp
 //ID:122
 //Qlink:https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/practice-problems/algorithm/snake-b0112afa/
