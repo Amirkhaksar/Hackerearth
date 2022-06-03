@@ -1,3 +1,13 @@
+/**
+ * @file scoringStores.cpp
+ * @author amir aghazadeh (cssu-ama)
+ * @version 0.1
+ * @date 2022-06-03
+ * @lan cpp
+ * @Qlink https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/three-friends-0c1070db/
+ * @id 202
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
