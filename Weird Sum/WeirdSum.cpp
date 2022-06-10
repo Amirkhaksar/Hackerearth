@@ -1,3 +1,10 @@
+/*
+#Language:C++
+#ID:Weird Sum
+#QLink:https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/weird-sum-1d2a0a2e/
+#All Accepet
+#Author:Amirkhaksar
+*/
 #include <iostream>
 using namespace std;
 #define ll long long
