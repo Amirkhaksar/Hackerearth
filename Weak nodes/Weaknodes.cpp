@@ -1,3 +1,11 @@
+/*
+#Language:C++
+#ID:Weak nodes
+#QLink:https://www.hackerearth.com/problem/algorithm/rhezo-and-super-tanks-a5a3a2f1/
+#All Accepet
+#Author:Amirkhaksar
+*/
+
 #include<bits/stdc++.h>
 #define ll long long int
 #define MOD 1000000007
