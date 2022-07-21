@@ -1,7 +1,7 @@
 
 #Language:C++
 #ID:Airplane Arrangements
-#QLink:https://www.hackerearth.com/problem/algorithm/the-furious-five-69521576/
+#QLink:https://www.hackerearth.com/problem/algorithm/airplane-arrangements-4d8a1bca/
 #All Accepet
 #Author:Amirkhaksar
 
