@@ -14,5 +14,24 @@
   | Supreme Subset | [supremeSubset](https://www.hackerearth.com/problem/algorithm/supreme-subset-bb866a75/) | [SupremeSubset](https://github.com/Amirkhaksar/Hackerearth/tree/main/SupremeSubset) |
   | Micro and Sweet Distribution | [microAndSweetDistribution](https://www.hackerearth.com/problem/algorithm/micro-and-sweet-distribution/) |  [MicroAndSweetDistribution](https://github.com/Amirkhaksar/Hackerearth/tree/main/MicroAndSweetDistribution) |
   | Unsafe elements in a matrix | [unsafeElementsInAMatrix](https://www.hackerearth.com/problem/algorithm/kshitiz-and-matrix-7ddc9719/) | [Unsafeelementsinamatrix](https://github.com/Amirkhaksar/Hackerearth/tree/main/Unsafeelementsinamatrix) |
+
+
 - Stack Questions
+  | Name of Question       | Link of Question                             | Soloution Dirctory   |
+  | ---------------------- | ----------------------------------- |------------------------------ |
+  | Fun Game <Capillary>  |   |  |
+  | Jump Humpy |  |  |
+  | Stack and Queue <Nissan> |  |  |
+  | Stack operations |  |  |
+  | A Game of Numbers |  |  |
+  | Array Formation <liv.ai> |  |  |
+  | Little Shino and Pairs |  |  |
+  | Alice's library |  |  |
+  | Minimum indexs |  |  |
+  | Mancunian And Fantabulous Pairs |  |  |
+  
+  
 - Queue Questions
+  | Name of Question       | Link of Question                             | Soloution Dirctory   |
+  | ---------------------- | ----------------------------------- |------------------------------ |
+  |  |  |  |
