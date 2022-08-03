@@ -17,21 +17,24 @@
 
 
 - Stack Questions
-  | Name of Question       | Link of Question                             | Soloution Dirctory   |
-  | ---------------------- | ----------------------------------- |------------------------------ |
-  | Fun Game <Capillary>  |   |  |
-  | Jump Humpy |  |  |
-  | Stack and Queue <Nissan> |  |  |
-  | Stack operations |  |  |
-  | A Game of Numbers |  |  |
-  | Array Formation <liv.ai> |  |  |
-  | Little Shino and Pairs |  |  |
-  | Alice's library |  |  |
-  | Minimum indexs |  |  |
-  | Mancunian And Fantabulous Pairs |  |  |
+  | Name of Question                | Link of Question                                                                                                   | Soloution Dirctory   |
+  | --------------------------------| ------------------------------------------------------------------------------------------------------------------ |--------------------- |
+  | Fun Game <Capillary>            | [Fun Game <Capillary>](https://www.hackerearth.com/problem/algorithm/fun-game-91510e9f/)                            | []() |
+  | Jump Humpy                      | [Jump Humpy](https://www.hackerearth.com/problem/algorithm/jumpy-humpy-5e0231d6/)                                   | []() |
+  | Stack and Queue <Nissan>        | [Stack and Queue <Nissan>](https://www.hackerearth.com/problem/algorithm/staque-1-e790a29f/)                        | []() |
+  | Stack operations                | [Stack operations](https://www.hackerearth.com/problem/algorithm/stakth-1-e6a76632/)                                | []() |
+  | A Game of Numbers               | [A Game of Numbers](https://www.hackerearth.com/problem/algorithm/a-game-of-numbers-1-5d3a8cb3/)                    | []() |
+  | Array Formation <liv.ai>        | [Array Formation <liv.ai>](https://www.hackerearth.com/problem/algorithm/circular-list-8e1319c9/)                   | []() |
+  | Little Shino and Pairs          | [Little Shino and Pairs](https://www.hackerearth.com/problem/algorithm/little-shino-and-pairs/)                     | []() |
+  | Alice's library                 | [Alice's library](https://www.hackerearth.com/problem/algorithm/katrina-and-library-c2ed51f3/)                      | []() |
+  | Minimum indexs                  | [Minimum indexs](https://www.hackerearth.com/problem/algorithm/yassers-conditions-6cc26a09/)                        | []() |
+  | Mancunian And Fantabulous Pairs | [Mancunian And Fantabulous Pairs](https://www.hackerearth.com/problem/algorithm/mancunian-and-fantabulous-pairs/)   | []() |
   
   
 - Queue Questions
-  | Name of Question       | Link of Question                             | Soloution Dirctory   |
-  | ---------------------- | ----------------------------------- |------------------------------ |
-  |  |  |  |
+  | Name of Question       | Link of Question                                                                                      | Soloution Dirctory   |
+  | ---------------------- | ----------------------------------- |---------------------------------------------------------------- |
+  | Disk tower             | [Disk tower](https://www.hackerearth.com/problem/algorithm/disk-tower-b7cc7a50/)                      | []() |
+  | Number Recovery        | [Number Recovery](https://www.hackerearth.com/problem/algorithm/number-recovery-0b988eb2/)            | []() |
+  | Holiday decorations    | [ Holiday decorations](https://www.hackerearth.com/problem/algorithm/holiday-decorations-b53daa12/)   | []() |
+  |  | []() | []() |
